@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>TFI1</groupId>
-    <artifactId>TFI1</artifactId>
+    <groupId>EK1</groupId>
+    <artifactId>EK1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 
@@ -40,27 +40,27 @@
         <dependency>
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-core</artifactId>
-            <version>4.0.0</version>
+            <version>5.5.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-queries</artifactId>
-            <version>4.0.0</version>
+            <version>5.5.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-test-framework</artifactId>
-            <version>4.0.0</version>
+            <version>5.5.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-analyzers-common</artifactId>
-            <version>4.0.0</version>
+            <version>5.5.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.lucene</groupId>
             <artifactId>lucene-queryparser</artifactId>
-            <version>4.0.0</version>
+            <version>5.5.0</version>
         </dependency>
     </dependencies>
 
